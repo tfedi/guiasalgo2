@@ -49,19 +49,43 @@ TEST(diccionario, ej5_borrar){
     ASSERT_EQ(diccionario2.def(2),true);
 }
 
-// Completar para el ejercicio 5
 
 #endif
 
 #if EJ >= 6
+TEST(diccionario, ej6_claves){
+    std::vector<Clave> keys = {1,2,3,4,5,6,7,8};
+    std::vector<Clave> keys2 = {2,1,4,5,6,8,3,7};
+    std::vector<Clave> keys3 = {};
+    std::vector<Clave> keys4 = {};
+    std::vector<Clave> keys5 = {5,3,4};
 
-// Completar para el ejercicio 6
+    ASSERT_EQ(esPermutacion(keys,keys2),true);
+    ASSERT_EQ(esPermutacion(keys3,keys4),true);
+    ASSERT_EQ(esPermutacion(keys3,keys5),false);
+    ASSERT_EQ(esPermutacion(keys,keys5),false);
+}
 
 #endif
 
 #if EJ >= 7
 
-// Completar para el ejercicio 7
+TEST(diccionario,ej7_igualdad){
+    Diccionario diccionario2;
+    diccionario2.definir(1,4);
+    diccionario2.definir(2,5);
+    diccionario2.definir(6,6);
+    Diccionario diccionario;
+    diccionario.definir(2,6);
+    diccionario.definir(6,4);
+    diccionario.definir(1,5);
+    Diccionario diccionario3;
+    diccionario3.definir(2,0);
+    diccionario3.definir(6,1);
+    diccionario3.definir(1,7);
+    ASSERT_EQ(diccionario == diccionario2,true);
+    ASSERT_EQ(diccionario == diccionario3,false);
+}
 
 #endif
 

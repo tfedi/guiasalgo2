@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Diccionario.cpp" "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/CMakeFiles/ej4.dir/src/Diccionario.cpp.o"
-  "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/test_diccionario.cpp" "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/CMakeFiles/ej4.dir/tests/test_diccionario.cpp.o"
+  "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Diccionario.cpp" "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/CMakeFiles/ej4.dir/src/Diccionario.cpp.o"
+  "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/test_diccionario.cpp" "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/CMakeFiles/ej4.dir/tests/test_diccionario.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
@@ -20,8 +20,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/CMakeFiles/gtest_main.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

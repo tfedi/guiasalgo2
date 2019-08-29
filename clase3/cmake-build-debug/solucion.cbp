@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test_algobot">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/test_algobot" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/test_algobot" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_algobot"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_algobot"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test_algobot/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/test_algobot" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/test_algobot" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,15 +73,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_algobot/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_algobot/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej2">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -94,15 +94,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej2"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej2/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -115,15 +115,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej1">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -136,15 +136,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej1"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej1/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -157,15 +157,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej1/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej6">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej6" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -179,15 +179,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej6"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej6"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej6/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej6" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -201,15 +201,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej6/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej6/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej7">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej7" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -223,15 +223,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej7"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej7"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej7/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej7" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -245,15 +245,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej7/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej7/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/libgtest.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -266,15 +266,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/libgtest.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -287,15 +287,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej5">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej5" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -309,15 +309,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej5"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej5/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej5" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -331,15 +331,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej5/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej8">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej8" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -353,15 +353,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej8"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej8"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej8/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej8" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -375,15 +375,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej8/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej8/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej4">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -397,15 +397,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej4"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej4/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -419,15 +419,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej4/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej3">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -440,15 +440,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej3"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej3/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/ej3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/ej3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -461,15 +461,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej3/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -482,15 +482,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest_main"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main/fast">
-				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug"/>
+				<Option output="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -503,81 +503,81 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Diccionario.cpp">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Diccionario.cpp">
 			<Option target="ej6"/>
 			<Option target="ej7"/>
 			<Option target="ej5"/>
 			<Option target="ej8"/>
 			<Option target="ej4"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Diccionario.h">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Diccionario.h">
 			<Option target="ej6"/>
 			<Option target="ej7"/>
 			<Option target="ej5"/>
 			<Option target="ej8"/>
 			<Option target="ej4"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Fecha.cpp">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Fecha.cpp">
 			<Option target="ej3"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Funciones.cpp">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Funciones.cpp">
 			<Option target="ej3"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Funciones.h">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Funciones.h">
 			<Option target="ej3"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Periodo.cpp">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Periodo.cpp">
 			<Option target="ej2"/>
 			<Option target="ej1"/>
 			<Option target="ej3"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Periodo.h">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Periodo.h">
 			<Option target="ej2"/>
 			<Option target="ej1"/>
 			<Option target="ej3"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/funciones.h">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/funciones.h">
 			<Option target="ej3"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/meses.h">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/meses.h">
 			<Option target="ej3"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/periodo.h">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/periodo.h">
 			<Option target="ej1"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/ej1_periodo.cpp">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/ej1_periodo.cpp">
 			<Option target="ej1"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/ej2_periodo_y_fecha.cpp">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/ej2_periodo_y_fecha.cpp">
 			<Option target="ej2"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/ej3_funciones.cpp">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/ej3_funciones.cpp">
 			<Option target="ej3"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/gtest-1.8.1/gtest-all.cc">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/gtest-1.8.1/gtest-all.cc">
 			<Option target="gtest"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/gtest-1.8.1/gtest_main.cc">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/gtest-1.8.1/gtest_main.cc">
 			<Option target="gtest_main"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/test_algobot.cpp">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/test_algobot.cpp">
 			<Option target="test_algobot"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/test_diccionario.cpp">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/test_diccionario.cpp">
 			<Option target="ej6"/>
 			<Option target="ej7"/>
 			<Option target="ej5"/>
 			<Option target="ej8"/>
 			<Option target="ej4"/>
 		</Unit>
-		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/CMakeLists.txt">
+		<Unit filename="/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

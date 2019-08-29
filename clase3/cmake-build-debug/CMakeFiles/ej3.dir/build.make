@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes
+CMAKE_SOURCE_DIR = /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ej3.dir/depend.make
@@ -59,55 +59,55 @@ include CMakeFiles/ej3.dir/flags.make
 
 CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.o: CMakeFiles/ej3.dir/flags.make
 CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.o: ../tests/ej3_funciones.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.o -c /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/ej3_funciones.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.o -c /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/ej3_funciones.cpp
 
 CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/ej3_funciones.cpp > CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/ej3_funciones.cpp > CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.i
 
 CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/ej3_funciones.cpp -o CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/ej3_funciones.cpp -o CMakeFiles/ej3.dir/tests/ej3_funciones.cpp.s
 
 CMakeFiles/ej3.dir/src/Funciones.cpp.o: CMakeFiles/ej3.dir/flags.make
 CMakeFiles/ej3.dir/src/Funciones.cpp.o: ../src/Funciones.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ej3.dir/src/Funciones.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ej3.dir/src/Funciones.cpp.o -c /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Funciones.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ej3.dir/src/Funciones.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ej3.dir/src/Funciones.cpp.o -c /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Funciones.cpp
 
 CMakeFiles/ej3.dir/src/Funciones.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ej3.dir/src/Funciones.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Funciones.cpp > CMakeFiles/ej3.dir/src/Funciones.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Funciones.cpp > CMakeFiles/ej3.dir/src/Funciones.cpp.i
 
 CMakeFiles/ej3.dir/src/Funciones.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ej3.dir/src/Funciones.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Funciones.cpp -o CMakeFiles/ej3.dir/src/Funciones.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Funciones.cpp -o CMakeFiles/ej3.dir/src/Funciones.cpp.s
 
 CMakeFiles/ej3.dir/src/Periodo.cpp.o: CMakeFiles/ej3.dir/flags.make
 CMakeFiles/ej3.dir/src/Periodo.cpp.o: ../src/Periodo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ej3.dir/src/Periodo.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ej3.dir/src/Periodo.cpp.o -c /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Periodo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ej3.dir/src/Periodo.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ej3.dir/src/Periodo.cpp.o -c /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Periodo.cpp
 
 CMakeFiles/ej3.dir/src/Periodo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ej3.dir/src/Periodo.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Periodo.cpp > CMakeFiles/ej3.dir/src/Periodo.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Periodo.cpp > CMakeFiles/ej3.dir/src/Periodo.cpp.i
 
 CMakeFiles/ej3.dir/src/Periodo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ej3.dir/src/Periodo.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Periodo.cpp -o CMakeFiles/ej3.dir/src/Periodo.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Periodo.cpp -o CMakeFiles/ej3.dir/src/Periodo.cpp.s
 
 CMakeFiles/ej3.dir/src/Fecha.cpp.o: CMakeFiles/ej3.dir/flags.make
 CMakeFiles/ej3.dir/src/Fecha.cpp.o: ../src/Fecha.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ej3.dir/src/Fecha.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ej3.dir/src/Fecha.cpp.o -c /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Fecha.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ej3.dir/src/Fecha.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ej3.dir/src/Fecha.cpp.o -c /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Fecha.cpp
 
 CMakeFiles/ej3.dir/src/Fecha.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ej3.dir/src/Fecha.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Fecha.cpp > CMakeFiles/ej3.dir/src/Fecha.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Fecha.cpp > CMakeFiles/ej3.dir/src/Fecha.cpp.i
 
 CMakeFiles/ej3.dir/src/Fecha.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ej3.dir/src/Fecha.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/src/Fecha.cpp -o CMakeFiles/ej3.dir/src/Fecha.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/src/Fecha.cpp -o CMakeFiles/ej3.dir/src/Fecha.cpp.s
 
 # Object files for target ej3
 ej3_OBJECTS = \
@@ -127,7 +127,7 @@ ej3: CMakeFiles/ej3.dir/build.make
 ej3: libgtest.a
 ej3: libgtest_main.a
 ej3: CMakeFiles/ej3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ej3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ej3"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ej3.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -140,6 +140,6 @@ CMakeFiles/ej3.dir/clean:
 .PHONY : CMakeFiles/ej3.dir/clean
 
 CMakeFiles/ej3.dir/depend:
-	cd /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/cmake-build-debug/CMakeFiles/ej3.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3 /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3 /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug /Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/cmake-build-debug/CMakeFiles/ej3.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ej3.dir/depend
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/gtest-1.8.1/gtest.h
+/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/gtest-1.8.1/gtest.h
 limits
 -
 ostream
@@ -148,19 +148,19 @@ vector
 tuple
 -
 absl/strings/string_view.h
-/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/gtest-1.8.1/absl/strings/string_view.h
+/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/gtest-1.8.1/absl/strings/string_view.h
 absl/types/optional.h
-/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/gtest-1.8.1/absl/types/optional.h
+/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/gtest-1.8.1/absl/types/optional.h
 absl/types/variant.h
-/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/gtest-1.8.1/absl/types/variant.h
+/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/gtest-1.8.1/absl/types/variant.h
 iosfwd
 -
 vector
 -
 
-/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/gtest-1.8.1/gtest_main.cc
+/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/gtest-1.8.1/gtest_main.cc
 stdio.h
 -
 gtest.h
-/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/labo/ejercitacion_member-classes/tests/gtest-1.8.1/gtest.h
+/Users/lisandrodiaz/Desktop/Facultad/Algoritmos2/guiasalgo2/clase3/tests/gtest-1.8.1/gtest.h
 
