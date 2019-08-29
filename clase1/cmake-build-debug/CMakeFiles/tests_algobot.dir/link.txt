@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.o CMakeFiles/tests_algobot.dir/src/algobot.cpp.o  -o tests_algobot 

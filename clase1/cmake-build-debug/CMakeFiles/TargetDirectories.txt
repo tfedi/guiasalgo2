@@ -1,0 +1,4 @@
+/Users/tomasfedi/Documents/Facultad/Algoritmos 2/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tomasfedi/Documents/Facultad/Algoritmos 2/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tomasfedi/Documents/Facultad/Algoritmos 2/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir
+/Users/tomasfedi/Documents/Facultad/Algoritmos 2/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir
