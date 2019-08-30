@@ -120,3 +120,26 @@ bool esPermutacion(std::vector<Clave> v1, std::vector<Clave> v2){
 bool Diccionario::operator==(Diccionario o) const {
     return esPermutacion(claves(),o.claves()) && esPermutacion(valores(),o.valores());
 }
+
+Diccionario Diccionario::operator&&(Diccionario o) const {
+    Diccionario diccionario;
+    for(Clave key : claves()){
+        if(o.def(key)){
+            diccionario.definir(key,obtener(key));
+        }
+    }
+    return diccionario;
+}
+
+Diccionario Diccionario::operator||(Diccionario o) const {
+    Diccionario diccionario;
+    for(Clave key : claves()){
+        diccionario.definir(key,obtener(key));
+    }
+    for(Clave key : o.claves()){
+        if(!def(key)){
+            diccionario.definir(key,o.obtener(key));
+        }
+    }
+    return diccionario;
+}

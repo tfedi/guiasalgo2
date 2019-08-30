@@ -91,5 +91,35 @@ TEST(diccionario,ej7_igualdad){
 
 #if EJ >= 8
 
+TEST(diccionario,ej8_interseccionyunion){
+
+    Diccionario diccionario2;
+    diccionario2.definir(1,4);
+    diccionario2.definir(2,5);
+    diccionario2.definir(6,6);
+    Diccionario diccionario;
+    diccionario.definir(2,6);
+    diccionario.definir(6,4);
+    diccionario.definir(1,5);
+    Diccionario diccionario3;
+    diccionario3.definir(8,0);
+    diccionario3.definir(3,1);
+    diccionario3.definir(7,7);
+    Diccionario d;
+    Diccionario d1yd3;
+    d1yd3.definir(1,4);
+    d1yd3.definir(2,5);
+    d1yd3.definir(6,6);
+    d1yd3.definir(8,0);
+    d1yd3.definir(3,1);
+    d1yd3.definir(7,7);
+
+    ASSERT_EQ(diccionario2 && diccionario, diccionario2);
+    ASSERT_EQ(diccionario2 || diccionario, diccionario2);
+    ASSERT_EQ(diccionario && diccionario3,d);
+    ASSERT_EQ(diccionario || diccionario3,d1yd3);
+
+}
+
 #endif
 

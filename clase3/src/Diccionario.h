@@ -17,6 +17,8 @@ public:
 	std::vector<Clave> claves() const;
 	std::vector<Valor> valores() const;
 	bool operator==(Diccionario o) const;
+	Diccionario operator && (Diccionario o) const;
+	Diccionario operator || (Diccionario o) const;
 
 private:
 	struct Asociacion{
