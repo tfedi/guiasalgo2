@@ -14,7 +14,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3009c6a-bd4f-4c3f-a879-90a094fedfe4" name="Default Changelist" comment="" />
+    <list default="true" id="e3009c6a-bd4f-4c3f-a879-90a094fedfe4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conjunto.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conjunto.hpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,14 +67,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1781920174">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.cidr.testingFrameworks.usages">
+        <counts>
+          <entry key="Google Test" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="hpp" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Conjunto.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="145" selection-start-line="145" selection-end-line="154" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="204" column="59" selection-start-line="204" selection-start-column="59" selection-end-line="204" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -79,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/conjunto-tests.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2100">
-              <caret line="140" column="20" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="20" />
+            <state relative-caret-position="146">
+              <caret line="147" column="21" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -91,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Conjunto.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+            <state relative-caret-position="164">
+              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
               <folding>
                 <element signature="e#41#60#0" expanded="true" />
               </folding>
@@ -106,6 +133,9 @@
     <findStrings>
       <find>new</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -123,10 +153,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -161,6 +192,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,28 +206,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Google Test.conjunto_test.test_remover_caso_dos_hijos_doble">
-    <configuration name="conjunto_test.test_remover_caso_dos_hijos_doble" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="taller_abb" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="taller_abb" RUN_TARGET_NAME="correrTests" TEST_CLASS="conjunto_test" TEST_METHOD="test_remover_caso_dos_hijos_doble" TEST_MODE="SUITE_TEST">
+  <component name="RunManager" selected="Google Test.conjunto_test.test_siguiente_inorder">
+    <configuration name="conjunto_test.test_remover_caso_dos_hijos_doble" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="taller_abb" TARGET_NAME="correrTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="taller_abb" RUN_TARGET_NAME="correrTests" TEST_CLASS="conjunto_test" TEST_METHOD="test_remover_caso_dos_hijos_doble" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conjunto_test.test_remover_raiz_compuesto" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="taller_abb" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="taller_abb" RUN_TARGET_NAME="correrTests" TEST_CLASS="conjunto_test" TEST_METHOD="test_remover_raiz_compuesto" TEST_MODE="SUITE_TEST">
+    <configuration name="conjunto_test.test_remover_raiz_compuesto" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="taller_abb" TARGET_NAME="correrTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="taller_abb" RUN_TARGET_NAME="correrTests" TEST_CLASS="conjunto_test" TEST_METHOD="test_remover_raiz_compuesto" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conjunto_test.test_remover_raiz_simple_der" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="taller_abb" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="taller_abb" RUN_TARGET_NAME="correrTests" TEST_CLASS="conjunto_test" TEST_METHOD="test_remover_raiz_simple_der" TEST_MODE="SUITE_TEST">
+    <configuration name="conjunto_test.test_remover_raiz_simple_izq" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="taller_abb" TARGET_NAME="correrTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="taller_abb" RUN_TARGET_NAME="correrTests" TEST_CLASS="conjunto_test" TEST_METHOD="test_remover_raiz_simple_izq" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conjunto_test.test_remover_raiz_simple_izq" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="taller_abb" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="taller_abb" RUN_TARGET_NAME="correrTests" TEST_CLASS="conjunto_test" TEST_METHOD="test_remover_raiz_simple_izq" TEST_MODE="SUITE_TEST">
+    <configuration name="conjunto_test.test_siguiente_inorder" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="taller_abb" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="taller_abb" RUN_TARGET_NAME="correrTests" TEST_CLASS="conjunto_test" TEST_METHOD="test_siguiente_inorder" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conjunto_test.test_stress" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="taller_abb" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="taller_abb" RUN_TARGET_NAME="correrTests" TEST_CLASS="conjunto_test" TEST_METHOD="test_stress" TEST_MODE="SUITE_TEST">
+    <configuration name="conjunto_test.test_stress" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="taller_abb" TARGET_NAME="correrTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="taller_abb" RUN_TARGET_NAME="correrTests" TEST_CLASS="conjunto_test" TEST_METHOD="test_stress" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -233,17 +265,17 @@
       <item itemvalue="Application.gtest_main" />
       <item itemvalue="Google Test.conjunto_test.test_stress" />
       <item itemvalue="Google Test.conjunto_test.test_remover_raiz_simple_izq" />
-      <item itemvalue="Google Test.conjunto_test.test_remover_raiz_simple_der" />
       <item itemvalue="Google Test.conjunto_test.test_remover_raiz_compuesto" />
       <item itemvalue="Google Test.conjunto_test.test_remover_caso_dos_hijos_doble" />
+      <item itemvalue="Google Test.conjunto_test.test_siguiente_inorder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Google Test.conjunto_test.test_siguiente_inorder" />
+        <item itemvalue="Google Test.conjunto_test.test_stress" />
         <item itemvalue="Google Test.conjunto_test.test_remover_caso_dos_hijos_doble" />
         <item itemvalue="Google Test.conjunto_test.test_remover_raiz_simple_izq" />
-        <item itemvalue="Google Test.conjunto_test.test_stress" />
         <item itemvalue="Google Test.conjunto_test.test_remover_raiz_compuesto" />
-        <item itemvalue="Google Test.conjunto_test.test_remover_raiz_simple_der" />
       </list>
     </recent_temporary>
   </component>
@@ -261,25 +293,12 @@
       <workItem from="1571136869803" duration="8462000" />
       <workItem from="1571263936573" duration="1166000" />
       <workItem from="1571609297808" duration="153000" />
+      <workItem from="1571698858339" duration="306000" />
+      <workItem from="1571699179948" duration="1310000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="conjunto_test_test_siguiente_inorder - 2019.10.15 at 14h 23m 12s.xml">
-      <configuration name="conjunto_test.test_siguiente_inorder" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
-    <history-entry file="conjunto_test_test_stress - 2019.10.15 at 14h 23m 17s.xml">
-      <configuration name="conjunto_test.test_stress" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
-    <history-entry file="conjunto_test_test_remover_raiz_simple_izq - 2019.10.15 at 14h 23m 27s.xml">
-      <configuration name="conjunto_test.test_remover_raiz_simple_izq" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
-    <history-entry file="conjunto_test_test_remover_raiz_simple_der - 2019.10.15 at 14h 23m 29s.xml">
-      <configuration name="conjunto_test.test_remover_raiz_simple_der" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
-    <history-entry file="conjunto_test_test_remover_raiz_compuesto - 2019.10.15 at 14h 23m 32s.xml">
-      <configuration name="conjunto_test.test_remover_raiz_compuesto" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
     <history-entry file="conjunto_test_test_remover_raiz_simple_izq - 2019.10.15 at 14h 25m 27s.xml">
       <configuration name="conjunto_test.test_remover_raiz_simple_izq" configurationId="CMakeGoogleTestRunConfigurationType" />
     </history-entry>
@@ -295,29 +314,53 @@
     <history-entry file="conjunto_test_test_remover_caso_dos_hijos_doble - 2019.10.16 at 19h 32m 25s.xml">
       <configuration name="conjunto_test.test_remover_caso_dos_hijos_doble" configurationId="CMakeGoogleTestRunConfigurationType" />
     </history-entry>
+    <history-entry file="conjunto_test_test_stress - 2019.10.21 at 20h 14m 37s.xml">
+      <configuration name="conjunto_test.test_stress" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="conjunto_test_test_stress - 2019.10.21 at 20h 16m 31s.xml">
+      <configuration name="conjunto_test.test_stress" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="conjunto_test_test_stress - 2019.10.21 at 20h 22m 24s.xml">
+      <configuration name="conjunto_test.test_stress" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="conjunto_test_test_stress - 2019.10.21 at 20h 24m 50s.xml">
+      <configuration name="conjunto_test.test_stress" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="conjunto_test_test_stress - 2019.10.21 at 20h 27m 55s.xml">
+      <configuration name="conjunto_test.test_stress" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37590000" />
+    <option name="totallyTimeSpent" value="39206000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-3" y="0" width="1926" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2673426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41568205" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.13855422" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32902583" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.36506024" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.47368422" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32902583" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -332,30 +375,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Conjunto.hpp">
+    <entry file="file://$PROJECT_DIR$/src/Conjunto.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="145" selection-start-line="145" selection-end-line="154" selection-end-column="1" />
+        <state relative-caret-position="164">
+          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/conjunto-tests.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2100">
-          <caret line="140" column="20" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="20" />
+        <state relative-caret-position="146">
+          <caret line="147" column="21" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Conjunto.h">
+    <entry file="file://$PROJECT_DIR$/src/Conjunto.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
-          <folding>
-            <element signature="e#41#60#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="204" column="59" selection-start-line="204" selection-start-column="59" selection-end-line="204" selection-end-column="59" />
         </state>
       </provider>
     </entry>

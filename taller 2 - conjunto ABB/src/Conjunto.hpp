@@ -203,8 +203,8 @@ void Conjunto<T>::destruirNodos(Conjunto::Nodo *pNodo) {
 
 template<class T>
 void Conjunto<T>::corregirMayoryMenor(const T &eliminado) {
-    if (menor_elem->valor == eliminado)
+    if (menor_elem != nullptr && menor_elem->valor == eliminado)
         menor_elem = obtenerSucesor(obtenerNodo(eliminado));
-    if (mayor_elem->valor == eliminado)
+    if (mayor_elem != nullptr && mayor_elem->valor == eliminado)
         mayor_elem = obtenerPredecesor(obtenerNodo(eliminado));
 }
