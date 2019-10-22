@@ -63,9 +63,6 @@ class Conjunto
         // Puntero a la raíz de nuestro árbol.
         Nodo* _raiz;
 
-        Nodo* menor_elem;
-        Nodo* mayor_elem;
-
         Nodo* obtenerNodo(const T& v) const;
         Nodo* obtenerPadre(Nodo* e);
         Nodo* obtenerHijoUnico(Nodo* e);

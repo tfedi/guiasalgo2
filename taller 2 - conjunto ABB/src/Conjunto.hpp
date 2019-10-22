@@ -3,8 +3,6 @@ template <class T>
 Conjunto<T>::Conjunto() {
     this->cant_elem = 0;
     this->_raiz = nullptr;
-    this->menor_elem = nullptr;
-    this->mayor_elem = nullptr;
 }
 
 template <class T>
@@ -23,8 +21,6 @@ void Conjunto<T>::insertar(const T& clave){
         return;
     else if (cardinal() == 0){
         _raiz = new Nodo(clave);
-        mayor_elem = _raiz;
-        menor_elem = _raiz;
         cant_elem = 1;
     }
     else{
@@ -34,8 +30,6 @@ void Conjunto<T>::insertar(const T& clave){
             if (actual->valor > clave){
                 if (actual->izq == nullptr){
                     actual->izq = new Nodo(clave);
-                    if (clave < menor_elem->valor)
-                        menor_elem = actual->izq;
                     inserte = true;
                 }
                 else
@@ -44,8 +38,6 @@ void Conjunto<T>::insertar(const T& clave){
             else{
                 if (actual->der == nullptr){
                     actual->der = new Nodo(clave);
-                    if (clave > mayor_elem->valor)
-                        mayor_elem = actual->der;
                     inserte = true;
                 }
                 else
@@ -61,7 +53,6 @@ void Conjunto<T>::remover(const T& clave) {
     if (!pertenece(clave))
         return;
     else{
-        corregirMayoryMenor(clave);
         Nodo* aEliminar = obtenerNodo(clave);
         Nodo* padre = obtenerPadre(aEliminar);
         Nodo* hijo = obtenerHijoUnico(aEliminar);
@@ -112,12 +103,18 @@ const T& Conjunto<T>::siguiente(const T& clave) {
 
 template <class T>
 const T& Conjunto<T>::minimo() const {
-    return menor_elem->valor;
+    Nodo* min = _raiz;
+    while (min != nullptr && min->izq != nullptr)
+        min = min->izq;
+    return min->valor;
 }
 
 template <class T>
 const T& Conjunto<T>::maximo() const {
-    return mayor_elem->valor;
+    Nodo* max = _raiz;
+    while (max != nullptr && max->der != nullptr)
+        max = max->der;
+    return max->valor;
 }
 
 template <class T>
@@ -199,12 +196,4 @@ void Conjunto<T>::destruirNodos(Conjunto::Nodo *pNodo) {
         destruirNodos(pNodo->der);
         delete pNodo;
     }
-}
-
-template<class T>
-void Conjunto<T>::corregirMayoryMenor(const T &eliminado) {
-    if (menor_elem != nullptr && menor_elem->valor == eliminado)
-        menor_elem = obtenerSucesor(obtenerNodo(eliminado));
-    if (mayor_elem != nullptr && mayor_elem->valor == eliminado)
-        mayor_elem = obtenerPredecesor(obtenerNodo(eliminado));
 }
