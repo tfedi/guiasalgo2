@@ -1,0 +1,7 @@
+/Users/tomasfedi/Downloads/taller_trie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tomasfedi/Downloads/taller_trie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tomasfedi/Downloads/taller_trie/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/Users/tomasfedi/Downloads/taller_trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir
+/Users/tomasfedi/Downloads/taller_trie/cmake-build-debug/CMakeFiles/correrTests.dir
+/Users/tomasfedi/Downloads/taller_trie/cmake-build-debug/CMakeFiles/gtest_main.dir
+/Users/tomasfedi/Downloads/taller_trie/cmake-build-debug/CMakeFiles/gtest.dir
