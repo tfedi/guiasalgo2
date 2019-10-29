@@ -92,6 +92,13 @@ private:
 
     vector<string> claves;
     Nodo * aDefinicion(const string& key) const;
+
+    bool esNodoUtil(Nodo *pNodo);
+    int cantHijos(Nodo *pNodo);
+
+    Nodo *obtenerHijoUnico(Nodo *pNodo);
+
+    void destruirNodo(Nodo *pNodo);
 };
 
 #include "string_map.hpp"
