@@ -11,8 +11,6 @@ string_map<T>::string_map(const string_map<T>& aCopiar) : string_map() {
 
 template <typename T>
 string_map<T>& string_map<T>::operator=(const string_map<T>& d) {
-    raiz = new Nodo;
-    _size = 0;
     for(string c : d.claves){
         insert(make_pair(c,d.at(c)));
     }
